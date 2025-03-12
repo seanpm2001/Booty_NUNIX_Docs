@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🥾️🧠️📖️ The official documentation source repository for Booty/NUNIX (BrainBoot) A version of Booty designed to work with NUNIX, allowing NUNIX boot up properly.
